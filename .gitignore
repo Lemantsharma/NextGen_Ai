@@ -1,0 +1,19 @@
+node_modules/
+build/
+dist/
+coverage/
+.DS_Store
+*.log
+.env*
+!.env.example
+
+# Local credentials and machine-specific configuration
+Tier Design/secrent/*.cfg
+Tier Design/secrent/*.config
+!Tier Design/secrent/*.example.cfg
+!Tier Design/secrent/*.example.config
+
+# Python cache and generated model artifacts
+__pycache__/
+*.py[cod]
+Tier Design/servicenow_model_run/
