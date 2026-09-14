@@ -16,4 +16,3 @@ Tier Design/secrent/*.config
 # Python cache and generated model artifacts
 __pycache__/
 *.py[cod]
-Tier Design/servicenow_model_run/
